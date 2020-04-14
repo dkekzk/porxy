@@ -1,16 +1,2 @@
-DOMAIN,gspe1-ssl.ls.apple.com
-PROCESS-NAME,News
-USER-AGENT,AppleNews*
-USER-AGENT,com.apple.news*
-DOMAIN-SUFFIX,apple.news
-DOMAIN,news-client.apple.com
-DOMAIN,news-edge.apple.com
-DOMAIN,news-events.apple.com
-DOMAIN,apple.comscoreresearch.com
-DOMAIN, news-assets.apple.com, AppleNews
-DOMAIN, c.apple.news, AppleNews
-DOMAIN, configuration.ls.apple.com, AppleNews
-DOMAIN, gateway.icloud.com, AppleNews
-DOMAIN, setup.icloud.com, AppleNews
-DOMAIN, play.itunes.apple.com, AppleNews
-DOMAIN, setup.icloud.com, AppleNews
+PROCESS-NAME,com.apple.geod*
+PROCESS-NAME, News*
