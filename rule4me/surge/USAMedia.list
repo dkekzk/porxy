@@ -69,3 +69,13 @@ IP-CIDR,208.75.76.0/22,no-resolve
 # > PBS
 USER-AGENT,PBS*
 DOMAIN-SUFFIX,pbs.org
+# > FOX NOW
+USER-AGENT,FOX%20NOW*
+DOMAIN-SUFFIX,fox.com
+DOMAIN-SUFFIX,foxdcg.com
+DOMAIN-SUFFIX,theplatform.com
+DOMAIN-SUFFIX,uplynk.com
+# > Hulu
+DOMAIN-SUFFIX,hulu.com
+DOMAIN-SUFFIX,huluim.com
+DOMAIN-SUFFIX,hulustream.com
