@@ -45,9 +45,11 @@ host-suffix, theplatform.com, GlobalMedia
 host-suffix, uplynk.com, GlobalMedia
 # > HBO NOW
 user-agent, HBO%20NOW*, GlobalMedia
+user-agent, HBO%20MAX*, GlobalMedia
 host-suffix, hbo.com, GlobalMedia
 host-suffix, hbogo.com, GlobalMedia
 host-suffix, hbonow.com, GlobalMedia
+host-suffix, hbomax.com, GlobalMedia
 # > Hulu
 host-suffix, hulu.com, GlobalMedia
 host-suffix, huluim.com, GlobalMedia
