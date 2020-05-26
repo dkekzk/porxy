@@ -27,7 +27,7 @@ user-agent, AppleNews*, Apple_API
 user-agent, com.apple.news*, Apple_API
 host-suffix, apple.news, Apple_API
 host, news-client.apple.com, Apple_API
-host。news-edge.apple.com, Apple_API
+host, news-edge.apple.com, Apple_API
 host, news-events.apple.com, Apple_API
 host, apple.comscoreresearch.com, Apple_API
 host-suffix, apple.news, Apple_API
