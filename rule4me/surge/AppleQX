@@ -21,16 +21,16 @@ ip-cidr, 198.183.17.0/24, Apple_API
 ip-cidr, 205.180.175.0/24, Apple_API
 # Apple News
 host-suffix, apple.news, Apple_API
-host,gspe1-ssl.ls.apple.com, Apple_API
-host,gspe12-ssl.ls.apple.com, Apple_API
-user-agent,AppleNews*, Apple_API
-user-agent,com.apple.news*, Apple_API
-host-suffix,apple.news, Apple_API
-host,news-client.apple.com, Apple_API
-host,news-edge.apple.com, Apple_API
-host,news-events.apple.com, Apple_API
-host,apple.comscoreresearch.com, Apple_API
-host-suffix,apple.news, Apple_API
+host, gspe1-ssl.ls.apple.com, Apple_API
+host, gspe12-ssl.ls.apple.com, Apple_API
+user-agent, AppleNews*, Apple_API
+user-agent, com.apple.news*, Apple_API
+host-suffix, apple.news, Apple_API
+host, news-client.apple.com, Apple_API
+host。news-edge.apple.com, Apple_API
+host, news-events.apple.com, Apple_API
+host, apple.comscoreresearch.com, Apple_API
+host-suffix, apple.news, Apple_API
 # > Map
-host-suffix,ls.apple.com, Apple_API
-host,gs-loc-cn.apple.com, Apple_API
+host-suffix, ls.apple.com, Apple_API
+host, gs-loc-cn.apple.com, Apple_API
