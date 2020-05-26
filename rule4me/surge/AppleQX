@@ -1,0 +1,36 @@
+# Apple_API.list
+host-suffix, aaplimg.com, Apple_API
+host-suffix, apple.co, Apple_API
+host-suffix, apple.com, Apple_API
+host-suffix, apple-cloudkit.com, Apple_API
+host-suffix, appsto.re, Apple_API
+host-suffix, cdn-apple.com, Apple_API
+host-suffix, icloud.com, Apple_API
+host-suffix, icloud-content.com, Apple_API
+host-suffix, itunes.com, Apple_API
+host-suffix, me.com, Apple_API
+ip-cidr, 17.0.0.0/8, Apple_API
+ip-cidr, 63.92.224.0/19, Apple_API
+ip-cidr, 65.199.22.0/23, Apple_API
+ip-cidr, 139.178.128.0/18, Apple_API
+ip-cidr, 144.178.0.0/19, Apple_API
+ip-cidr, 144.178.36.0/22, Apple_API
+ip-cidr, 144.178.48.0/20, Apple_API
+ip-cidr, 192.35.50.0/24, Apple_API
+ip-cidr, 198.183.17.0/24, Apple_API
+ip-cidr, 205.180.175.0/24, Apple_API
+# Apple News
+host-suffix, apple.news, Apple_API
+host,gspe1-ssl.ls.apple.com, Apple_API
+host,gspe12-ssl.ls.apple.com, Apple_API
+user-agent,AppleNews*, Apple_API
+user-agent,com.apple.news*, Apple_API
+host-suffix,apple.news, Apple_API
+host,news-client.apple.com, Apple_API
+host,news-edge.apple.com, Apple_API
+host,news-events.apple.com, Apple_API
+host,apple.comscoreresearch.com, Apple_API
+host-suffix,apple.news, Apple_API
+# > Map
+host-suffix,ls.apple.com, Apple_API
+host,gs-loc-cn.apple.com, Apple_API
